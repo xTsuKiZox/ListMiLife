@@ -1,0 +1,21 @@
+{
+    "users": [
+        {
+            "username":"digital",
+            "password":"digital",
+            "image":"https://www.ecoledesmetiers.fr/sites/default/files/2019-09/Logo_cci.jpg"
+        },
+        {
+            "username": "greg",
+            "password": "fancy",
+            "image": "https://media.licdn.com/dms/image/C5603AQGVPU2Wobz4yw/profile-displayphoto-shrink_200_200/0/1517615148222?e=1680134400&v=beta&t=54AZeNrRQwmUs9bgghBq2MQF14wSe8VEFMe9h0nkJXs"
+        },
+        {
+            "username": "r",
+            "password": "r",
+            "image":"https://media.licdn.com/dms/image/D5603AQFnh-6wRkiZeg/profile-displayphoto-shrink_200_200/0/1669317379191?e=1680134400&v=beta&t=eOCTePZpyo-rwrbiO6siRggoPWwwALOzvmByvrCzi-8"
+        }
+        
+    ]
+}
+
