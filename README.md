@@ -1,10 +1,8 @@
 <a name="readme-top"></a>
 
-![GitHub contributors](https://img.shields.io/github/contributors/xTsuKiZox/ListMiLife?color=0d0&style=for-the-badge)
 ![GitHub release](https://img.shields.io/github/v/release/xTsuKiZox/ListMiLife?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/IlanOu/xTsuKiZox/ListMiLife?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/xTsuKiZox/ListMiLife?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/xTsuKiZox/ListMiLife?color=%23fa0&style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/xTsuKiZox/ListMiLife?style=for-the-badge)
 
 
 
@@ -12,7 +10,7 @@
 <br />
 <div align="center">
     <a>
-        <img src="images/logo.png" alt="Logo" width="80" height="80">
+        <img src="images/logo.png" alt="Logo" width="200" height="70">
     </a>
   <h3 align="center">L!ST Mİ L!FE</h3>
 
